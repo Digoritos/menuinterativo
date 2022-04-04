@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1649094023,
+	"version": 1649099306,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,12 +14,14 @@
 		"sprite-sheet0.png",
 		"sprite2-sheet0.png",
 		"logo-sheet0.png",
-		"mixkit-crickets-and-insects-in-the-wild-ambience-39.m4a",
-		"mixkit-crickets-and-insects-in-the-wild-ambience-39.ogg",
 		"mixkit-retro-game-notification-212.m4a",
 		"mixkit-retro-game-notification-212.ogg",
+		"itumenu player (wav).m4a",
+		"itumenu player (wav).ogg",
 		"into-the-night-20928 (online-audio-converter.com).m4a",
 		"into-the-night-20928 (online-audio-converter.com).ogg",
+		"itumenu narrador (wav).m4a",
+		"itumenu narrador (wav).ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
