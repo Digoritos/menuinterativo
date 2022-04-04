@@ -1,0 +1,30 @@
+﻿{
+	"version": 1649093408,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/camera-sheet0.png",
+		"images/camerastart-sheet0.png",
+		"images/cameraend-sheet0.png",
+		"images/bg_0-sheet0.png",
+		"images/char_01-sheet0.png",
+		"images/char_01-sheet1.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/logo-sheet0.png",
+		"media/mixkit-crickets-and-insects-in-the-wild-ambience-39.m4a",
+		"media/mixkit-crickets-and-insects-in-the-wild-ambience-39.ogg",
+		"media/mixkit-retro-game-notification-212.m4a",
+		"media/mixkit-retro-game-notification-212.ogg",
+		"media/into-the-night-20928 (online-audio-converter.com).m4a",
+		"media/into-the-night-20928 (online-audio-converter.com).ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
