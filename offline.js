@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1650657830,
+	"version": 1650931926,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -31,6 +31,8 @@
 		"vitoria4-sheet0.png",
 		"vitoria5-sheet0.png",
 		"vitoria6-sheet0.png",
+		"8a10deabril-sheet0.png",
+		"calltoaction-sheet0.png",
 		"mixkit-retro-game-notification-212.m4a",
 		"mixkit-retro-game-notification-212.ogg",
 		"itumenu player (wav).m4a",
